@@ -42,6 +42,20 @@
             "class" : "alert alert-primary",
             "role": "alert"            
         }
+    ],
+    "compButton": [
+        {
+            "button": true,
+            "type":"button",
+            "class":"btn btn-primary",
+            "text": "Boton"
+        },
+        {
+            "button": true,
+            "type":"button",
+            "class":"btn btn-success",
+            "text": "Boton de api"
+        }
     ]
 
 }
