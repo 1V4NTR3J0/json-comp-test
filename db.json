@@ -38,7 +38,7 @@
         {
             "alert": true,
             "id": "alert1",
-            "text":"A simple primary alert—check it out!",
+            "text":"Texto cargando desde la api",
             "class" : "alert alert-primary",
             "role": "alert"            
         }
