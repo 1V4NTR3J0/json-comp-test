@@ -1,0 +1,47 @@
+{   
+    "compInput" : [
+        {
+            "input": true,
+            "id": 1,
+            "placeholder":"Ingresar texto 1",
+            "color" : "blue",
+            "type": "text",
+            "height": 80,
+            "name": "Input Text",
+            "required": false,
+            "width": 200
+        },
+        {
+            "input": true,
+            "id": 2,
+            "placeholder":"Ingresar texto 2",
+            "color" : "blue",
+            "type": "text",
+            "height": 80,
+            "name": "Input Text",
+            "required": false,
+            "width": 200
+        },
+        {
+            "input": false,
+            "id": 3,
+            "placeholder":"Ingresar texto 3",
+            "color" : "blue",
+            "type": "text",
+            "height": 80,
+            "name": "Input Text",
+            "required": false,
+            "width": 200
+        }         
+    ],
+    "compAlert": [
+        {
+            "alert": true,
+            "id": "alert1",
+            "text":"A simple primary alert—check it out!",
+            "class" : "alert alert-primary",
+            "role": "alert"            
+        }
+    ]
+
+}
