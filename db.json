@@ -63,7 +63,7 @@
         {
             "dropDown": true,
             "id": "drop01",
-            "class": "btn-secondary",
+            "class": "btn btn-secondary dropdown-toggle",
             "textBtn": "Dropdown button",
             "itemList": [
                 {
