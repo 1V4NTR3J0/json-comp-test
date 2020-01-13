@@ -58,6 +58,32 @@
             "class":"btn btn-success",
             "text": "Boton de api"
         }
+    ],
+    "compDrop":[
+        {
+            "dropDown": true,
+            "id": "drop01",
+            "class": "btn-secondary",
+            "textBtn": "Dropdown button",
+            "itemList": [
+                {
+                    "text": "Google",
+                    "link": "http://www.google.com"
+                },
+                {
+                    "text": "PYV",
+                    "link": "https://pyvtec.com/"
+                },
+                {
+                    "text": "Zeit S.",
+                    "link": "https://zeit.software/"
+                },
+                {
+                    "text": "Mirlo",
+                    "link": "http://www.mirlo.software/"
+                }                
+            ]
+        }
     ]
 
 }
